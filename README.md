@@ -21,7 +21,7 @@ Sales and product data derived from Maven Cycles, with supporting lookup tables 
 3. Modify visuals or add new ones as needed.
 
 ## Screenshots
-[Dashboard Screenshot](dashboard_overview.png)
+![Dashboard Screenshot](MavenDashboard.png)
 
 ## Author
 Uchechukwu Ekemezie
